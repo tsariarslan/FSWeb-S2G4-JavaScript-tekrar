@@ -1,5 +1,5 @@
 /* Aşağıda global olarak tanımlanmış değişkenler bulunmaktadır, bunları değiştirmeyiniz. Açıklamaları takip ederek görevleri tamamlayın. */
-
+// deneme Tolga 
 const pi = 3.14159;
 
 const sayilar = [
